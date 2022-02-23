@@ -1,0 +1,4 @@
+# CFC
+## Move away saved TikToks from your Camera folder!
+TikTok, for some reason, decided to save videos in to the Camera folder without ability to change the location. So I got fed up and did this mess that checks every hour for files with name longer then 30 charactes and moves those files into 'Pictures/TikTok' folder.\
+It's a mess, I have never properly worked with Java or Android Studio, it might or might not work fo you..., you also need to manually allow full access to storage for the app in settings and probably allow unsigned or whatever installation of apks and create the 'Pictures/TikTok' folder...
